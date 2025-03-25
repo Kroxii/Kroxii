@@ -1,4 +1,5 @@
-# Remi
-Bonjour et bienvenue sur mon profil.
+# About me
 
-Ici vous trouverez pour les prochains mois les projets que j'aurais réalisé durant ma formation Dev web/Dev mobile.
+
+- Webdesigner in training :seedling: </br>
+- Learning **HTML 5** & **CSS 4**:hourglass:
